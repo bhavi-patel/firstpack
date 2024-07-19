@@ -1,0 +1,13 @@
+{
+    "name": "bhavipatel/firstpack",
+    "description": "Testing package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bhavipatel\\Firstpack\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
